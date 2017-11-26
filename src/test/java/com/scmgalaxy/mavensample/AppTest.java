@@ -1,4 +1,4 @@
-package com.scmgalaxy.mavensample;
+package com.devopsfly.mavensample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
